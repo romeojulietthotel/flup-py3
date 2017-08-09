@@ -24,7 +24,7 @@ setup(
     author_email = 'allan@saddi.com',
     description = 'Random assortment of WSGI servers',
     license = 'BSD',
-    url='http://www.saddi.com/software/flup/',
+    url='https://github.com/romeojulietthotel/flup-py3',
     classifiers = [
     'Development Status :: 5 - Production/Stable',
     'Environment :: Web Environment',
